@@ -30,7 +30,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adflex.vn
 0.0.0.0 adfly.vn
 0.0.0.0 adi.vcmedia.vn
-0.0.0.0 admicro*.vcmedia.vn
+0.0.0.0 vcmedia.vn
 0.0.0.0 admicro.vn
 0.0.0.0 adnetwork.vn
 0.0.0.0 adpia.vn
@@ -168,9 +168,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 logv2.mp3.zing.vn
 0.0.0.0 logzh.dantocmiennui.vn
 0.0.0.0 logzh.vietnamplus.vn
-0.0.0.0 matomo.*.vn
-0.0.0.0 mautic.*.com.vn
-0.0.0.0 mautic.*.vn
 0.0.0.0 mautic.hubs.vn
 0.0.0.0 mclick.mobi
 0.0.0.0 mediad.asia
@@ -209,8 +206,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 phukienthoitranggiare.com
 0.0.0.0 piads.vn
 0.0.0.0 pinetech.vn
-0.0.0.0 piwik.*.com.vn
-0.0.0.0 piwik.*.vn
 0.0.0.0 pixel.coccoc.com
 0.0.0.0 polyad.net
 0.0.0.0 popup.sapoapps.vn
@@ -1595,7 +1590,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ad-score.com
 0.0.0.0 ad-serve.b-cdn.net
 0.0.0.0 ad-stir.com
-0.0.0.0 ad.*.xiaomi.com
 0.0.0.0 ad.daum.net
 0.0.0.0 ad.go.com
 0.0.0.0 ad.gt
@@ -1704,7 +1698,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 adrizer.com
 0.0.0.0 adroll.com
 0.0.0.0 adrta.com
-0.0.0.0 ads*-adnow.com
 0.0.0.0 ads-adaptv.vidible.tv
 0.0.0.0 ads-api.tiktok.com
 0.0.0.0 ads-api.twitter.com
@@ -1720,7 +1713,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads-sg.tiktok.com
 0.0.0.0 ads-trk.vidible.tv
 0.0.0.0 ads-twitter.com
-0.0.0.0 ads.*.yahoo.com
 0.0.0.0 ads.bing.com
 0.0.0.0 ads.cdn.rovio.com
 0.0.0.0 ads.facebook.com
@@ -1768,7 +1760,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 adserver.bing.com
 0.0.0.0 adserver.yahoo.com
 0.0.0.0 adservercheck.net
-0.0.0.0 adservice.google.*
 0.0.0.0 adservices.brandcdn.com
 0.0.0.0 adservme.com
 0.0.0.0 adsfactor.net
@@ -1840,7 +1831,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 adxxx.info
 0.0.0.0 adzerk.net
 0.0.0.0 aegis.qq.com
-0.0.0.0 aem-collector-*.kgslb.com
 0.0.0.0 aem-collector.daumkakao.io
 0.0.0.0 aerserv.com
 0.0.0.0 afd.baidu.com
@@ -1850,8 +1840,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 aicactus.io
 0.0.0.0 aimtell.com
 0.0.0.0 airpush.com
-0.0.0.0 aj1*.online
-0.0.0.0 ajx*.online
 0.0.0.0 ak-events-collector.spot.im
 0.0.0.0 ak-is.net
 0.0.0.0 ak-is2.net
@@ -1881,7 +1869,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 an.yandex.ru
 0.0.0.0 analy.qq.com
 0.0.0.0 analysis.fi
-0.0.0.0 analytics-ad-*.kgslb.com
 0.0.0.0 analytics-sg.tiktok.com
 0.0.0.0 analytics.autodesk.com
 0.0.0.0 analytics.edgekey.net
@@ -1909,7 +1896,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 anymad.com
 0.0.0.0 anythinktech.com
 0.0.0.0 ap.cpatrk.net
-0.0.0.0 api-*.bidmachine.io
 0.0.0.0 api-2-0.spot.im
 0.0.0.0 api-ad-data.kajicam.com
 0.0.0.0 api-ad.kajicam.com
@@ -1960,7 +1946,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 aralego.com
 0.0.0.0 aralego.net
 0.0.0.0 ard.yahoo.co.jp
-0.0.0.0 arsena*.xyz
 0.0.0.0 artsai.com
 0.0.0.0 asdfix.com
 0.0.0.0 asdpoi.com
@@ -2038,7 +2023,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 bitmedianetwork.com
 0.0.0.0 bizible.com
 0.0.0.0 bizographics.com
-0.0.0.0 bj1*.online
 0.0.0.0 bkrtx.com
 0.0.0.0 blismedia.com
 0.0.0.0 blogherads.com
@@ -2117,7 +2101,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 chitika.com
 0.0.0.0 cint.com
 0.0.0.0 cintnetworks.com
-0.0.0.0 cj1*.online
 0.0.0.0 clarity.ms
 0.0.0.0 clarium.global.ssl.fastly.net
 0.0.0.0 clck.yandex.com
@@ -2148,9 +2131,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 collecticon.outlookmobile.com
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
-0.0.0.0 collector-*.px-cloud.net
-0.0.0.0 collector-*.tvsquared.com
-0.0.0.0 collector-*.us.tvsquared.com
 0.0.0.0 conductrics.com
 0.0.0.0 confiant-integrations.global.ssl.fastly.net
 0.0.0.0 config.hiido.com
@@ -2224,10 +2204,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 dfnb-ads.com
 0.0.0.0 direct-events-collector.spot.im
 0.0.0.0 directoffers.go2cloud.org
-0.0.0.0 display-ad-*.kgslb.com
 0.0.0.0 districtm.io
 0.0.0.0 dit.whatsapp.net
-0.0.0.0 dj1*.online
 0.0.0.0 djaxadserver.com
 0.0.0.0 dl1d2m8ri9v3j.cloudfront.net
 0.0.0.0 dlog.hiido.com
@@ -2259,7 +2237,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 easyads28.info
 0.0.0.0 eclick.baidu.com
 0.0.0.0 effectivemeasure.net
-0.0.0.0 ej1*.online
 0.0.0.0 em.dynamicyield.com
 0.0.0.0 ematicsolutions.com
 0.0.0.0 emxdgt.com
@@ -2299,8 +2276,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 eyeota.net
 0.0.0.0 ezmob.com
 0.0.0.0 ezodn.com
-0.0.0.0 fads*s.com
-0.0.0.0 fads*z.com
 0.0.0.0 faktor.io
 0.0.0.0 fatchilli.media
 0.0.0.0 fc.yahoo.com
@@ -2333,8 +2308,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 fwmrm.net
 0.0.0.0 fyber.com
 0.0.0.0 g.s.360.cn
-0.0.0.0 gads*s.com
-0.0.0.0 gads*z.com
 0.0.0.0 galaxiemedia.fr
 0.0.0.0 gameads.io
 0.0.0.0 gameanalytics.com
@@ -2380,7 +2353,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 h-adashx.ut.taobao.com
 0.0.0.0 h-adashx4ae.ut.taobao.com
 0.0.0.0 h-adashx4sg.ut.taobao.com
-0.0.0.0 hads*s.com
 0.0.0.0 havasedge.com
 0.0.0.0 headerlift.com
 0.0.0.0 heapanalytics.com
@@ -2517,7 +2489,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 links.services.disqus.com
 0.0.0.0 linkshare.com
 0.0.0.0 linksynergy.com
-0.0.0.0 livetracker.*.pangea-cms.com
 0.0.0.0 lkqd.net
 0.0.0.0 localytics.com
 0.0.0.0 log-global.aliyuncs.com
@@ -2552,7 +2523,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.data.mob.com
 0.0.0.0 m2.ai
 0.0.0.0 m6r.eu
-0.0.0.0 mads*z.com
 0.0.0.0 mahimeta.com
 0.0.0.0 mail-ads.google.com
 0.0.0.0 mainadv.com
@@ -2613,7 +2583,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 microad.net
 0.0.0.0 microadinc.com
 0.0.0.0 mintegral.net
-0.0.0.0 mistat.*.xiaomi.com
 0.0.0.0 mistat.xiaomi.com
 0.0.0.0 mixpanel.com
 0.0.0.0 ml314.com
@@ -2629,10 +2598,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 mobile-10.com
 0.0.0.0 mobile-collector.newrelic.com
 0.0.0.0 mobileads.msn.com
-0.0.0.0 mobileanalytics.*.amazonaws.com
 0.0.0.0 mobileapptracking.com
 0.0.0.0 mobileconfig.sascdn.com
-0.0.0.0 mobileoffers-*-download.com
 0.0.0.0 mobisage.cn
 0.0.0.0 mobpartner.mobi
 0.0.0.0 mobytrks.com
@@ -2655,8 +2622,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 mxpnl.com
 0.0.0.0 mydas.mobi
 0.0.0.0 myfastcdn.com
-0.0.0.0 n*adserv.com
-0.0.0.0 n*adserv.xyz
 0.0.0.0 nakanohito.jp
 0.0.0.0 navdmp.com
 0.0.0.0 nbryb.com
@@ -2740,7 +2705,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 petametrics.com
 0.0.0.0 pgmcdn.com
 0.0.0.0 phonograph2.voxmedia.com
-0.0.0.0 ping*.qq.com
 0.0.0.0 pings.conviva.com
 0.0.0.0 pix.spot.im
 0.0.0.0 pixanalytics.com
@@ -2754,7 +2718,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 pmddby.com
 0.0.0.0 pncloudfl.com
 0.0.0.0 polarbyte.com
-0.0.0.0 popadex-*.us-east-1.elb.amazonaws.com
 0.0.0.0 popads.net
 0.0.0.0 popcash.net
 0.0.0.0 popcashjs.b-cdn.net
@@ -2778,7 +2741,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 prod.pr.analytics.console.aws.a2z.com
 0.0.0.0 prod.pw.analytics.console.aws.a2z.com
 0.0.0.0 production-cmp.isgprivacy.cbsi.com
-0.0.0.0 promo-*.vercel.app
 0.0.0.0 promoted.soundcloud.com
 0.0.0.0 promotionalads.yahoo.co.jp
 0.0.0.0 propellerads.com
@@ -2881,7 +2843,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 s-onetag.com
 0.0.0.0 s.adx.opera.com
 0.0.0.0 sa.api.intl.miui.com
-0.0.0.0 sads*z.com
 0.0.0.0 sail-horizon.com
 0.0.0.0 salesmanago.pl
 0.0.0.0 sam.msn.com
@@ -3028,7 +2989,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 target.microsoft.com
 0.0.0.0 taroads.com
 0.0.0.0 taxel.jp
-0.0.0.0 tblog-*.kgslb.com
 0.0.0.0 teads.tv
 0.0.0.0 techlab-cdn.com
 0.0.0.0 technoratimedia.com
@@ -3124,7 +3084,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 usp1.baidu.com
 0.0.0.0 uts-front.line-apps.com
 0.0.0.0 uttclimber.com
-0.0.0.0 v*.denakop.com
 0.0.0.0 v16-ad.byteoversea.com
 0.0.0.0 vaicore.site
 0.0.0.0 vaicore.store
